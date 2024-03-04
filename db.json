@@ -1,0 +1,67 @@
+{
+    "restaurants": [
+        {
+            "id": 1,
+            "name": "Lounge Bar 77",
+            "menu_list": [
+                {
+                    "id": 1,
+                    "name": "Hot Plate",
+                    "description": "Taste our hot plate combined with Chicken Fingers, Mozzarella Sticks, Cheese and Ham"
+                },
+                {
+                    "id": 2,
+                    "name": "Sushi",
+                    "description": "Come and eat the best sushi you have ever tasted"
+                },
+                {
+                    "id": 3,
+                    "name": "77 Burger",
+                    "description": "Try our burger with fresh chicken meat, crispy sauce and accompanied with French Fries"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Proper Pizza",
+            "menu_list": [
+                {
+                    "id": 1,
+                    "name": "Proper",
+                    "description": "Try our pizza made with sauce, cheese, sausage and mushrooms"
+                },
+                {
+                    "id": 2,
+                    "name": "Tuna",
+                    "description": "Pizza Tuna, made with sauce, cheese, tuna and onions"
+                },
+                {
+                    "id": 3,
+                    "name": "Vegetarian",
+                    "description": "Taste the Pizza Vegetarian, made with sauce, cheese, tomatoes, peppers and corn"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Steakhouse",
+            "menu_list": [
+                {
+                    "id": 1,
+                    "name": "Beef Ribs",
+                    "description": "Taste the calf ribs"
+                },
+                {
+                    "id": 2,
+                    "name": "Steak",
+                    "description": "The best grilled steak"
+                },
+                {
+                    "id": 3,
+                    "name": "Steak Burger",
+                    "description": "Try the best burger ever with steak and sauce"
+                }
+            ]
+        }
+    ]
+}
